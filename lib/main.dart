@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         centerTitle: true,
         leading: Icon(Icons.menu),
-        title: Text('الشيف سرسور'),
+        title: Text('الشيف روميو'),
         actions: [Icon(Icons.search)],
       ),
       body: SafeArea(
